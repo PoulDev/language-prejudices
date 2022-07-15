@@ -1,0 +1,2 @@
+# *"Java is only useful for minecraft"*
+Well, okay, but do the other programming languages have something special that makes them different? with every language you can do everything, java is like everyone else.

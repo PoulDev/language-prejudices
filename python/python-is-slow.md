@@ -1,0 +1,2 @@
+# *"Python is slow"*
+Okok, python is slow, everyone knows by now, but is it really important? a programming language does not have to be fast to be a good language, for the uses for which it was created it is not important that it is fast

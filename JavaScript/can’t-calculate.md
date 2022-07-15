@@ -1,0 +1,2 @@
+# *"JavaScript can’t do calculations"*
+some people really think so, probably after seeing some YouTube video that talks about 0.1 + 0.2 started to think that javascript does not know how to do calculations without being properly informed about the argument, when in reality it is a "problem" of almost every language
